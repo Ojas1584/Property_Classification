@@ -1,0 +1,20 @@
+Validation accuracy: 0.9131
+Validation macro F1: 0.8982
+Validation weighted F1: 0.9133
+Params:
+{
+  "max_leaves": 52,
+  "eta": 0.12403532976602917,
+  "max_depth": 5,
+  "lambda": 0.5013357450065772,
+  "alpha": 0.6734129639326389,
+  "gamma": 0.07771153711880602,
+  "subsample": 0.8225600305329638,
+  "colsample_bytree": 0.8522516716631717,
+  "objective": "multi:softprob",
+  "num_class": 5,
+  "eval_metric": "mlogloss",
+  "tree_method": "hist",
+  "grow_policy": "lossguide",
+  "seed": 42
+}
