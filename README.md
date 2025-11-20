@@ -175,7 +175,5 @@ These ensure end-to-end reproducibility without requiring retraining.
 ---
 
 ##  Notes
-- Original datasets are not included in this repository (privacy/size considerations)
-- Place your `train.csv` and `validation.csv` in the `data/` folder to run the notebook
 - Model training takes ~10-15 minutes on standard hardware
 
