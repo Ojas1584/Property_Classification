@@ -6,7 +6,9 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Feature%20Engineering-F7931E?logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 
-A robust text-classification system that predicts property types from address/description text.
+A text classification pipeline that predicts property types 
+from unstructured text using TF-IDF features, XGBoost, and Optuna hyperparameter tuning.
+This repository includes training code, evaluation visualizations, and pre-trained models.
 
 ##  Table of Contents
 - [Problem Statement](#problem-statement)
